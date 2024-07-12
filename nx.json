@@ -34,7 +34,7 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["apps/news-api-e2e/**/*"]
+      "exclude": ["apps/news-api-e2e/**/*", "apps/maps-api-e2e/**/*"]
     }
   ],
   "nxCloudAccessToken": "MTA4ZWE3ZTAtN2QzMy00Yzg3LWIxZjktMmU4YmQwMTdlMDM1fHJlYWQtd3JpdGU="
